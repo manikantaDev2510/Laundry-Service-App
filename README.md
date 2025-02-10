@@ -1,8 +1,7 @@
 # Laundry-Service-App
 
 
-1
-![Image](https://github.com/user-attachments/assets/5db2bd2b-d3a5-4638-b984-7e8002541b15)
+
 
 
 2
@@ -23,3 +22,8 @@
 
 6
 ![Image](https://github.com/user-attachments/assets/35072b31-a552-4317-961b-3016e91f843b)
+
+
+
+1
+![Image](https://github.com/user-attachments/assets/5db2bd2b-d3a5-4638-b984-7e8002541b15)
